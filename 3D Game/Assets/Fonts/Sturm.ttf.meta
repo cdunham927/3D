@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5f4733bc2a04d20469af28ede9ed0350
+timeCreated: 1511896849
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sturm
+  fontNames:
+  - Sturm
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
